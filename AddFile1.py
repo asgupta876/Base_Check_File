@@ -6,5 +6,8 @@ x=5
 y=10
 print(x+y)
 
+P= 55
+Q= 56
+print(x+Q)
 
 print("add fution to subtraction for cehck dev branchgit log")
