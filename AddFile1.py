@@ -7,4 +7,4 @@ y=10
 print(x+y)
 
 
-print("add fution to subtraction for cehck dev branch")
+print("add fution to subtraction for cehck dev branchgit log")

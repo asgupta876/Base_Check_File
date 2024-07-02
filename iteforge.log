@@ -1,0 +1,17 @@
+[33mcommit 2177709cad4b2d51910d8d158a24ecb3a30cf8b4[m[33m ([m[1;36mHEAD -> [m[1;32mdev_branch[m[33m)[m
+Author: Ashwani2.gupta@RIL <Ashwani2.Gupta@ril.com>
+Date:   Tue Jul 2 16:02:39 2024 +0530
+
+    taking master branch data into dev
+
+[33mcommit a7feca154ebda0f518a51bbfe3ede434eb9e06d3[m[33m ([m[1;32mmaster[m[33m, [m[1;32mashwani_local[m[33m)[m
+Author: Ashwani2.gupta@RIL <Ashwani2.Gupta@ril.com>
+Date:   Tue Jul 2 15:30:48 2024 +0530
+
+    added 2 line code for addition
+
+[33mcommit 0204f76a6601c1b93dfbd8711a42ac24c3e3bff2[m
+Author: Ashwani2.gupta@RIL <Ashwani2.Gupta@ril.com>
+Date:   Tue Jul 2 15:26:33 2024 +0530
+
+    basic hello word
