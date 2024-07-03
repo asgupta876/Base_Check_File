@@ -10,4 +10,7 @@ P= 55
 Q= 56
 print(x+Q)
 
+#now here we are going to update and implement the dividation and multiplcation
+#pls wrt here logic
+
 print("add fution to subtraction for cehck dev branchgit log")
