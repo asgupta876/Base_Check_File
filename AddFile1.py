@@ -12,5 +12,7 @@ print(x+Q)
 
 #now here we are going to update and implement the dividation and multiplcation
 #pls wrt here logic
+print(x/y)
+print(P*Q)
 
 print("add fution to subtraction for cehck dev branchgit log")
